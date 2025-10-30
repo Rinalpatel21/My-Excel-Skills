@@ -1,14 +1,14 @@
-# My-Excel-Skills
+## My-Excel-Skills
 Multiple Excel projects ranging from data analysis and automation to advanced dashboard design. Progressed from PivotTables and formula-based modeling to expert-level tools like Power Query, Power Pivot, and interactive visual analytics.
 
-# HR Survey Data Analysis – Washington City Employees
+## HR Survey Data Analysis – Washington City Employees
 Analyzed survey responses from 1,500 city employees across Washington State using Excel to uncover trends in engagement, satisfaction, and workplace culture. Developed interactive dashboards and visual reports to support data-driven HR decisions in the government sector.
 Tools & Skills: #Excel (Functions, Calculated Columns, Filters, Modified Chart)  #Data Cleaning #Visualization  #HR Analytics
 
 <img width="1125" height="491" alt="image" src="https://github.com/user-attachments/assets/97799bb5-cffd-4730-bb0d-490fbe6b0e94" />
 # Bonus Skill: Recreated the survey chart into a diverging stacked bar using calculated columns so that positive responses skew right and negative responses skew left, improving data interpretation and visual clarity.
 
-# Insights and recommendations
+## Insights and recommendations
 1. Clear Role Expectations
 Employees show exceptional clarity about their responsibilities, with 92% agreeing they know what is expected of them which is the strongest result across all areas.
 Progress: Continue reinforcing clear communication of goals and performance metrics to maintain this strength.
