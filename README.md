@@ -47,3 +47,21 @@ Tools & Techniques Used
 •	Visualization: Likert-style 100% stacked bar chart with sentiment-based color coding
 •	Analytics Skills: Data storytelling, HR metrics interpretation, trend identification
 
+# Manufacturing Downtime Optimization Project
+Goal:
+Enhance overall production efficiency by identifying key downtime drivers, addressing operator skill gaps, and implementing actionable process improvements.
+Overview:
+This project focused on improving line performance across multiple operators in a manufacturing environment. Using data-driven insights, I assessed efficiency levels, analyzed downtime trends, and identified where focused training and operational adjustments could deliver the highest impact.
+Key Insights:
+•	The production line’s overall efficiency was 64%, indicating room for improvement in workflow and training.
+•	Mac’s efficiency (61%) was the lowest, driven largely by delays in batch changeovers.
+•	The top five downtime causes were Machine Adjustments, Machine Failures, Inventory Shortages, Batch Changes, and Batch Coding Errors accounted for 80% of total downtime.
+•	Three out of the top five causes were related to operator error, highlighting the need for improved training and clearer standard operating procedures.
+Recommendations & Actions:
+•	Launch hands-on machine adjustment training for all operators to minimize manual setup time.
+•	Introduce focused batch change training for Mac to improve changeover speed and accuracy.
+•	Implement proactive maintenance checks and inventory monitoring to reduce delays caused by equipment and supply shortages.
+•	Encourage a continuous improvement mindset by reviewing downtime metrics weekly and recognizing high-performing operators.
+
+
+
