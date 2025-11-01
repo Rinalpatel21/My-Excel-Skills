@@ -1,6 +1,9 @@
-[HR Survey Data Analysis](#HR-Survey-Data-Analysis) <br> [Project Goals](#Project-Goals)
 ## My-Excel-Skills
-Multiple Excel projects ranging from data analysis and automation to advanced dashboard design. Progressed from PivotTables and formula-based modeling to expert-level tools like Power Query, Power Pivot, and interactive visual analytics.
+Multiple Excel projects ranging from data analysis and automation to advanced dashboard design. Progressed from PivotTables and formula-based modeling to expert-level tools like Power Query, Power Pivot, and interactive visual analytics.<br>
+## Projects:
+**[HR Survey Data Analysis](#HR-Survey-Data-Analysis):** Analyzed survey responses from 1,500 city employees across Washington State using Excel to uncover trends in engagement, satisfaction, and workplace culture. Developed interactive dashboards and visual reports to support data-driven HR decisions in the government sector.<br>
+**Tools & Skills: #Excel #Functions #Calculated Columns #Filters #Chart Format #Data Cleaning  # Data Visualization**
+<br> [Project Goals](#Project-Goals)
 
 ## HR Survey Data Analysis
 Analyzed survey responses from 1,500 city employees across Washington State using Excel to uncover trends in engagement, satisfaction, and workplace culture. Developed interactive dashboards and visual reports to support data-driven HR decisions in the government sector.<br><br>
